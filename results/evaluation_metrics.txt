@@ -1,0 +1,2 @@
+Average Precision@5: 0.51
+Average Recall@5: 0.00

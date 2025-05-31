@@ -1,0 +1,2 @@
+Trained a simple autoencoder to compress and reconstruct movie embeddings.
+Can be used for future anomaly detection or enhanced similarity comparisons.
